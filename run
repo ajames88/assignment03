@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo ""
+echo "Clustering Documents"
+python2.7 ./cluster.py
+echo "Clustering Complete"
+echo ""

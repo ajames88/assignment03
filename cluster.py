@@ -34,6 +34,4 @@ for x in dataFilenames:
                 parsedFile.append(z)
     dataSet.append(parsedFile)
 
-print(dataSet[1])
-
 # -----------------------------------------------------------------------------
