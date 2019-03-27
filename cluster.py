@@ -1,8 +1,11 @@
 # Author Austin James, all rights reserved.
 
+print("\n")
+
 import sys
 import os
 from collections import defaultdict
+import math
 
 alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -42,7 +45,7 @@ for x in dataFilenames:
 
             z = z.replace(" ", "")
 
-            if (z.upper()) not in stopwords:
+            if ((z.upper()) not in stopwords) and (z != ""):
                 parsedFile.append(z)
 
     dataSet.append(parsedFile)
@@ -88,43 +91,147 @@ for x in frequencyData:
 
 # -----------------------------------------------------------------------------
 
-# Pair based on highest frequency words ---------------------------------------
+# Create a set of each documents highest and lowest frequency words -----------
 
-rawHighestClusters = []
+highestFreqWords = []
+lowestFreqWords = []
 
-for x in range(len(mostFreqsData)-1):
-    currentDocument = dataFilenames[x]
-    freqs = mostFreqsData[x]
-    rawHighestClusters.append([(currentDocument, freqs)])
-    for y in range(len(mostFreqsData)-1):
-        compareDocument = dataFilenames[y]
-        compareFreqs = mostFreqsData[y]
-        common = 0
-        for z in freqs:
-            if z in compareFreqs:
-                common += 1
-        if common >= 3:
-            rawHighestClusters[x].append((compareDocument, compareFreqs))
-
-# -----------------------------------------------------------------------------
-
-# Refine clusters to remove singles -------------------------------------------
-
-highestClusters = []
-
-for x in rawHighestClusters:
-    if len(x) > 2:
-        highestClusters.append(x)
-
-# -----------------------------------------------------------------------------
-
-# Print clusters --------------------------------------------------------------
-
-for x in highestClusters:
-    print("Cluster")
+for x in mostFreqsData:
     for y in x:
-        print(y[0])
-        print(y[1])
-    print("\n")
+        word = y[0]
+        if word not in highestFreqWords:
+            highestFreqWords.append(word)
+
+for x in leastFreqsData:
+    for y in x:
+        word = y[0]
+        if word not in lowestFreqWords:
+            lowestFreqWords.append(word)
 
 # -----------------------------------------------------------------------------
+
+# Create the frequency vector for each documents highest and lowest frequency
+# words
+
+highestFreqVectors = []
+lowestFreqVectors = []
+
+for x in dataFilenames:
+    highVector = []
+    lowVector = []
+    for y in highestFreqWords:
+        highVector.append(0)
+    for y in lowestFreqWords:
+        lowVector.append(0)
+    highestFreqVectors.append(highVector)
+    lowestFreqVectors.append(lowVector)
+
+for x in range(len(mostFreqsData)):
+    for y in mostFreqsData[x]:
+        indexOfWord = highestFreqWords.index(y[0])
+        highestFreqVectors[x][indexOfWord] = y[1]
+
+for x in range(len(leastFreqsData)):
+    for y in leastFreqsData[x]:
+        indexOfWord = lowestFreqWords.index(y[0])
+        lowestFreqVectors[x][indexOfWord] = y[1]
+
+# -----------------------------------------------------------------------------
+
+# Normalize all frequency vectors ---------------------------------------------
+
+for x in highestFreqVectors:
+    sum = 0.0
+    for y in x:
+        sum += y*y
+    normfactor = math.sqrt(sum)
+    normfactor = 1/normfactor
+    for y in range(len(x)):
+        x[y] = float(x[y])*normfactor
+
+for x in lowestFreqVectors:
+    sum = 0.0
+    for y in x:
+        sum += y*y
+    normfactor = math.sqrt(sum)
+    normfactor = 1/normfactor
+    for y in range(len(x)):
+        x[y] = float(x[y])*normfactor
+
+# -----------------------------------------------------------------------------
+
+# Compute cosine similarities of all documents to all other documents ---------
+
+highFreqSimilarities = []
+lowFreqSimilarities = []
+
+highAcceptableSimilarity = 0.5
+lowAcceptableSimilarity = 0.126
+identicalSimilarity = 0.99
+
+for x in dataFilenames:
+    highFreqSimilarities.append([])
+    lowFreqSimilarities.append([])
+
+for x in highestFreqVectors:
+    for y in highestFreqVectors:
+        similarity = 0.0
+        for i in range(len(x)):
+            similarity += x[i]*y[i]
+        docIndex = highestFreqVectors.index(x)
+        if (similarity >= highAcceptableSimilarity) and (similarity <= identicalSimilarity):
+            highFreqSimilarities[docIndex].append(similarity)
+        else:
+            highFreqSimilarities[docIndex].append(0.0)
+
+for x in lowestFreqVectors:
+    for y in lowestFreqVectors:
+        similarity = 0.0
+        for i in range(len(x)):
+            similarity += x[i]*y[i]
+        docIndex = lowestFreqVectors.index(x)
+        if (similarity >= lowAcceptableSimilarity) and (similarity <= identicalSimilarity):
+            lowFreqSimilarities[docIndex].append(similarity)
+        else:
+            lowFreqSimilarities[docIndex].append(0.0)
+
+# -----------------------------------------------------------------------------
+
+# Find how many documents each document is similar to -------------------------
+
+highRelations = []
+lowRelations = []
+
+print("     Document                    TF Relations   ITF Relations")
+
+for x in range(len(highFreqSimilarities)):
+    highRelateds = 0
+    lowRelateds = 0
+    for y in highFreqSimilarities[x]:
+        if y > 0:
+            highRelateds += 1
+    for y in lowFreqSimilarities[x]:
+        if y > 0:
+            lowRelateds += 1
+    docTitle = dataFilenames[x]
+    print(docTitle+":\t\t"+str(highRelateds)+"\t\t"+str(lowRelateds))
+    highRelations.append(highRelateds)
+    lowRelations.append(lowRelateds)
+
+sumHighRelations = 0
+sumLowRelations = 0
+
+for x in range(len(highRelations)):
+    sumHighRelations += highRelations[x]
+    sumLowRelations += lowRelations[x]
+
+aveHighRelations = float(sumHighRelations)/float(len(dataFilenames))
+aveLowRelations = float(sumLowRelations)/float(len(dataFilenames))
+
+print("\n")
+print("Average High Relations per Document: "+str(aveHighRelations))
+print("Average Low Relations per Document: "+str(aveLowRelations))
+
+# -----------------------------------------------------------------------------
+
+print("\n")
