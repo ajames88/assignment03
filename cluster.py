@@ -108,6 +108,9 @@ for x in leastFreqsData:
         if word not in lowestFreqWords:
             lowestFreqWords.append(word)
 
+print("Dimensions in TF frequency vector space: "+str(len(highestFreqWords)))
+print("Dimensions in ITF frequency vector space: "+str(len(lowestFreqWords)))
+print("\n")
 # -----------------------------------------------------------------------------
 
 # Create the frequency vector for each documents highest and lowest frequency
