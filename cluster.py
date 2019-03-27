@@ -7,6 +7,8 @@ import os
 from collections import defaultdict
 import math
 
+dataSetFilepath = "./studentDocuments"
+
 alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -23,8 +25,6 @@ for x in read:
 # The list of stopwords is now contained in the list stopwords ----------------
 
 # Parse student document ------------------------------------------------------
-
-dataSetFilepath = "./studentDocuments"
 
 dataFilenames = os.listdir(dataSetFilepath)
 
@@ -232,8 +232,8 @@ aveHighRelations = float(sumHighRelations)/float(len(dataFilenames))
 aveLowRelations = float(sumLowRelations)/float(len(dataFilenames))
 
 print("\n")
-print("Average High Relations per Document: "+str(aveHighRelations))
-print("Average Low Relations per Document: "+str(aveLowRelations))
+print("Average TF Relations per Document: "+str(aveHighRelations))
+print("Average ITF Relations per Document: "+str(aveLowRelations))
 
 # -----------------------------------------------------------------------------
 
