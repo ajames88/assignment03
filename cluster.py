@@ -7,7 +7,11 @@ import os
 from collections import defaultdict
 import math
 
-dataSetFilepath = "./studentDocuments"
+dataSetFilepath = "./dataSet"
+
+outputFile = "output.txt"
+
+out = open(outputFile, "w")
 
 alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -45,7 +49,7 @@ for x in dataFilenames:
 
             z = z.replace(" ", "")
 
-            if ((z.upper()) not in stopwords) and (z != ""):
+            if ((z.upper()) not in stopwords) and (z != "") and (len(z) > 1):
                 parsedFile.append(z)
 
     dataSet.append(parsedFile)
@@ -66,35 +70,24 @@ for x in dataSet:
 
 # -----------------------------------------------------------------------------
 
-# Find 10 most and least frequent words used in each document -----------------
+# Find 10 most frequent words used in each document ---------------------------
 # * All terms with freq = 1 will be included in leastFreqs *
 mostFreqsData = []
-leastFreqsData = []
 
 for x in frequencyData:
     mostFreqs = []
-    leastFreqs = []
 
     # Apppend the 10 most and least freqs to the appropriate list
     for y in range(9):
         mostFreqs.append(x[y])
-        leastFreqs.append(x[(len(x)-(y+1))])
-
-    # Append all terms with freq = 1 to leastFreqs
-    for y in x:
-        if y[1] == 1:
-            if y not in leastFreqs:
-                leastFreqs.append(y)
 
     mostFreqsData.append(mostFreqs)
-    leastFreqsData.append(leastFreqs)
 
 # -----------------------------------------------------------------------------
 
-# Create a set of each documents highest and lowest frequency words -----------
+# Create a set of each documents highest frequency words ----------------------
 
 highestFreqWords = []
-lowestFreqWords = []
 
 for x in mostFreqsData:
     for y in x:
@@ -102,57 +95,61 @@ for x in mostFreqsData:
         if word not in highestFreqWords:
             highestFreqWords.append(word)
 
-for x in leastFreqsData:
-    for y in x:
-        word = y[0]
-        if word not in lowestFreqWords:
-            lowestFreqWords.append(word)
-
-print("Dimensions in TF frequency vector space: "+str(len(highestFreqWords)))
-print("Dimensions in ITF frequency vector space: "+str(len(lowestFreqWords)))
-print("\n")
+out.write("Dimensions in frequency vector space: "+str(len(highestFreqWords)))
+out.write("\n\n")
 # -----------------------------------------------------------------------------
 
-# Create the frequency vector for each documents highest and lowest frequency
-# words
+# Create the frequency vector for each documents highest frequency words ------
 
 highestFreqVectors = []
-lowestFreqVectors = []
 
 for x in dataFilenames:
     highVector = []
-    lowVector = []
     for y in highestFreqWords:
         highVector.append(0)
-    for y in lowestFreqWords:
-        lowVector.append(0)
     highestFreqVectors.append(highVector)
-    lowestFreqVectors.append(lowVector)
 
 for x in range(len(mostFreqsData)):
     for y in mostFreqsData[x]:
         indexOfWord = highestFreqWords.index(y[0])
         highestFreqVectors[x][indexOfWord] = y[1]
 
-for x in range(len(leastFreqsData)):
-    for y in leastFreqsData[x]:
-        indexOfWord = lowestFreqWords.index(y[0])
-        lowestFreqVectors[x][indexOfWord] = y[1]
+# -----------------------------------------------------------------------------
+
+# Compute the idf value for each of the highest frequency terms ---------------
+
+docFreq = []
+idfValues = []
+
+for x in highestFreqWords:
+    docFreq.append(0)
+
+for x in highestFreqVectors:
+    for y in range(len(x)):
+        if x[y] > 0:
+            docFreq[y] += 1
+
+for x in docFreq:
+    idfValues.append((1+math.log10((len(dataFilenames)/x))))
+
+# -----------------------------------------------------------------------------
+
+# Multiply each term frequency by its idf value -------------------------------
+
+freqVectors = []
+
+for x in dataFilenames:
+    freqVectors.append([])
+
+for x in range(len(highestFreqVectors)):
+    for y in range(len(highestFreqVectors[x])):
+        freqVectors[x].append(highestFreqVectors[x][y]*idfValues[y])
 
 # -----------------------------------------------------------------------------
 
 # Normalize all frequency vectors ---------------------------------------------
 
-for x in highestFreqVectors:
-    sum = 0.0
-    for y in x:
-        sum += y*y
-    normfactor = math.sqrt(sum)
-    normfactor = 1/normfactor
-    for y in range(len(x)):
-        x[y] = float(x[y])*normfactor
-
-for x in lowestFreqVectors:
+for x in freqVectors:
     sum = 0.0
     for y in x:
         sum += y*y
@@ -166,75 +163,70 @@ for x in lowestFreqVectors:
 # Compute cosine similarities of all documents to all other documents ---------
 
 highFreqSimilarities = []
-lowFreqSimilarities = []
 
-highAcceptableSimilarity = 0.5
-lowAcceptableSimilarity = 0.126
+highAcceptableSimilarity = 0.325
 identicalSimilarity = 0.99
 
 for x in dataFilenames:
     highFreqSimilarities.append([])
-    lowFreqSimilarities.append([])
 
-for x in highestFreqVectors:
-    for y in highestFreqVectors:
+for x in freqVectors:
+    for y in freqVectors:
         similarity = 0.0
         for i in range(len(x)):
             similarity += x[i]*y[i]
-        docIndex = highestFreqVectors.index(x)
+        docIndex = freqVectors.index(x)
         if (similarity >= highAcceptableSimilarity) and (similarity <= identicalSimilarity):
             highFreqSimilarities[docIndex].append(similarity)
         else:
             highFreqSimilarities[docIndex].append(0.0)
 
-for x in lowestFreqVectors:
-    for y in lowestFreqVectors:
-        similarity = 0.0
-        for i in range(len(x)):
-            similarity += x[i]*y[i]
-        docIndex = lowestFreqVectors.index(x)
-        if (similarity >= lowAcceptableSimilarity) and (similarity <= identicalSimilarity):
-            lowFreqSimilarities[docIndex].append(similarity)
-        else:
-            lowFreqSimilarities[docIndex].append(0.0)
-
 # -----------------------------------------------------------------------------
 
 # Find how many documents each document is similar to -------------------------
 
-highRelations = []
-lowRelations = []
+highClusters = []
 
-print("     Document                    TF Relations   ITF Relations")
+numHighRelations = []
 
 for x in range(len(highFreqSimilarities)):
+    highClusters.append([])
     highRelateds = 0
-    lowRelateds = 0
-    for y in highFreqSimilarities[x]:
-        if y > 0:
+    doc = mostFreqsData[x]
+    docWords = []
+    for a in doc:
+        docWords.append(a[0])
+    similarWords = []
+    for y in range(len(highFreqSimilarities[x])):
+        if highFreqSimilarities[x][y] > 0:
             highRelateds += 1
-    for y in lowFreqSimilarities[x]:
-        if y > 0:
-            lowRelateds += 1
-    docTitle = dataFilenames[x]
-    print(docTitle+":\t\t"+str(highRelateds)+"\t\t"+str(lowRelateds))
-    highRelations.append(highRelateds)
-    lowRelations.append(lowRelateds)
+            highClusters[x].append(dataFilenames[y])
+            cur = mostFreqsData[y]
+            curWords = []
+            for b in cur:
+                curWords.append(b[0])
+            for z in docWords:
+                if (z in curWords) and (z not in similarWords):
+                    similarWords.append(z)
+    if highRelateds > 0:
+        docTitle = dataFilenames[x]
+        out.write(docTitle+"\n")
+        out.write("TFIDF Relations: "+str(highRelateds)+"\n")
+        out.write("Cluster: "+str(highClusters[x])+"\n")
+        out.write("Similar Words: "+str(similarWords)+"\n\n")
+    numHighRelations.append(highRelateds)
 
 sumHighRelations = 0
-sumLowRelations = 0
 
-for x in range(len(highRelations)):
-    sumHighRelations += highRelations[x]
-    sumLowRelations += lowRelations[x]
+for x in range(len(numHighRelations)):
+    sumHighRelations += numHighRelations[x]
 
 aveHighRelations = float(sumHighRelations)/float(len(dataFilenames))
-aveLowRelations = float(sumLowRelations)/float(len(dataFilenames))
 
-print("\n")
-print("Average TF Relations per Document: "+str(aveHighRelations))
-print("Average ITF Relations per Document: "+str(aveLowRelations))
+out.write("\n")
+out.write("Average relations per Document: "+str(aveHighRelations))
+out.write("\n")
 
 # -----------------------------------------------------------------------------
 
-print("\n")
+out.close()

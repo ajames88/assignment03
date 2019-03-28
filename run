@@ -2,6 +2,6 @@
 
 echo ""
 echo "Clustering Documents"
-python2.7 ./cluster.py
+python2.7 ./cluster.py $1
 echo "Clustering Complete"
 echo ""

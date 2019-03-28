@@ -3,3 +3,29 @@ Austin James for use in CSCE 3578 by instructor Duncan Buell.
 All Rights Reserved.
 
 This project is coded in version python2.7.10.
+
+The executable to run this program is titled "run". Enter the following command
+into the terminal to run the program: './run'
+
+This program uses a vector space model to perform document clustering based on
+the cosine similarity of tfidf values.
+
+The documents being clustered appear in the folder 'dataSet'. Users may add or
+remove documents from this folder to suit their needs. The current data set is
+a set of essays from Freshman at the University of South Carolina from an
+English 101 course.
+
+The output of this program will appear in the document 'output.txt'. This
+document is overwritten each time the program is ran. The output appears in
+the following form:
+
+Dimensions in frequency vector space: <value>
+
+<document>
+TFIDF Relations: <value>
+Cluster: <set of documents in the cluster>
+similar Words: <set of similar words between documents that define the cluster>
+
+(Repeat the data above for each document)
+
+Average relations per Document: <value>

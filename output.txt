@@ -1,0 +1,604 @@
+Dimensions in frequency vector space: 495
+
+2014_4_101_500_577final4.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_580final4.txt']
+Similar Words: ['PEOPLE', 'PLAGUE', 'WAY', 'CITY']
+
+2014_4_101_600_666final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt', '2014_4_101_600_642final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'AUDIENCE', 'ESSAY', 'ARGUMENT', 'FREEDOM', 'ETHOS', 'SALATINS']
+
+2014_4_101_600_672final1.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_600_667final1.txt', '2014_4_101_600_659final1.txt']
+Similar Words: ['PAARLBERG', 'FOOD', 'HUNGER']
+
+2014_4_101_600_608final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'ARGUMENT', 'LIFE', 'KINDER', 'AUDIENCE', 'PEOPLE', 'KIND', 'USES', 'ALSO']
+
+2014_4_101_600_653final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'ESSAY', 'ETHOS']
+
+2014_4_101_500_506final1.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_500_515final1.txt', '2014_4_101_500_501final1.txt']
+Similar Words: ['MME', 'LOISEL', 'NECKLACE', 'MAUPASSANT', 'DE']
+
+2014_4_101_600_629final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'LIFE', 'KINDER', 'ARGUMENT', 'KINDNESS', 'REGRET', 'GOOD']
+
+2014_4_101_500_550final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_546final3.txt']
+Similar Words: ['MISS', 'EMILY']
+
+2014_4_101_500_512final1.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_555final3.txt']
+Similar Words: ['STORY', 'POE', 'VALDEMAR']
+
+2014_4_101_600_647final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'AUDIENCE', 'ESSAY', 'INDUSTRIAL', 'READERS', 'GOOD', 'REASONING', 'SYSTEM']
+
+2014_4_101_600_611final1.txt
+TFIDF Relations : 11
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['ARGUMENT', 'AUDIENCE', 'SAUNDERS', 'KINDNESS', 'WOULD']
+
+2014_4_101_600_605final1.txt
+TFIDF Relations : 8
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['KIND', 'SAUNDERS', 'PEOPLE', 'KINDER', 'KINDNESS', 'REGRET', 'GRADUATES']
+
+2014_4_101_600_624final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ARGUMENT', 'PEOPLE', 'ALSO', 'LIFE', 'ONE']
+
+2014_4_101_600_630final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ARGUMENT', 'PEOPLE', 'MANY', 'SOCIETY', 'US']
+
+2014_4_101_500_549final3.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_500_556final3.txt', '2014_4_101_500_552final3.txt', '2014_4_101_500_554final3.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['GIRLS', 'BARBIE', 'SOCIETY', 'WOMEN', 'PIERCY', 'POEM', 'TOYS', 'PLAY', 'FEMINISM']
+
+2014_4_101_500_556final3.txt
+TFIDF Relations : 5
+Cluster: ['2014_4_101_500_549final3.txt', '2014_4_101_500_552final3.txt', '2014_4_101_500_554final3.txt', '2014_4_101_500_559final3.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['WOMEN', 'BARBIE', 'PIERCY', 'SOCIETY', 'POEM', 'GIRLS', 'DOLL']
+
+2014_4_101_600_655final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'READER', 'INDUSTRY', 'AUDIENCE', 'LOGOS']
+
+2014_4_101_600_641final1.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_600_636final1.txt', '2014_4_101_600_632final1.txt', '2014_4_101_600_614final1.txt']
+Similar Words: ['CARR', 'INTERNET', 'ARGUMENT', 'CARRS', 'TECHNOLOGY']
+
+2014_4_101_600_660final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'ARGUMENT', 'ETHOS', 'AUDIENCE', 'FREEDOM', 'ESSAY', 'PEOPLE', 'PROOFS']
+
+2014_4_101_500_565final4.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_564final4.txt', '2014_4_101_500_578final4.txt', '2014_4_101_500_567final4.txt']
+Similar Words: ['DISCIPLINE', 'SCHOOL', 'STUDENTS', 'POWER']
+
+2014_4_101_600_622final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'LIFE', 'AUDIENCE', 'KIND', 'PEOPLE', 'KINDNESS', 'GRADUATES', 'SPEECH']
+
+2014_4_101_600_658final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'BERRY', 'READER', 'READERS', 'CONSUMER']
+
+2014_4_101_500_580final4.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_577final4.txt', '2014_4_101_500_569final4.txt', '2014_4_101_500_567final4.txt']
+Similar Words: ['PLAGUE', 'CITY', 'PEOPLE', 'WAY']
+
+2014_4_101_600_636final1.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_600_641final1.txt', '2014_4_101_600_632final1.txt', '2014_4_101_600_614final1.txt']
+Similar Words: ['ARGUMENT', 'CARR', 'CARRS', 'INTERNET', 'GOOGLE', 'INFORMATION']
+
+2014_4_101_600_617final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['RICHTEL', 'TECHNOLOGY', 'ARGUMENT', 'ALSO', 'ARTICLE', 'READERS', 'CAMPBELL', 'ISSUE']
+
+2014_4_101_600_603final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_633final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_500_566final4.txt', '2014_4_101_600_600final1.txt']
+Similar Words: ['TECHNOLOGY', 'PEOPLE', 'LIFE', 'MANY', 'INFORMATION', 'BECOME', 'WORLD', 'WOULD']
+
+2014_4_101_500_568final4.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_564final4.txt']
+Similar Words: ['DISCIPLINE', 'PEOPLE']
+
+2014_4_101_600_679final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'PEOPLE', 'EAT']
+
+2014_4_101_600_609final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ARGUMENT', 'ARTICLE', 'CAMPBELL', 'READERS', 'FAMILY', 'AUDIENCE', 'BRAIN']
+
+2014_4_101_600_667final1.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_600_672final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_659final1.txt', '2014_4_101_600_668final1.txt']
+Similar Words: ['FOOD', 'PAARLBERG', 'HUNGER', 'US', 'ORGANIC', 'AFRICA']
+
+2014_4_101_500_513final1.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_517final1.txt']
+Similar Words: ['MATHILDE', 'NECKLACE', 'LIFE', 'PEOPLE']
+
+2014_4_101_500_545final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_557final3.txt']
+Similar Words: ['WOMEN', 'TH', 'GIRL', 'MOTHER']
+
+2014_4_101_600_646final1.txt
+TFIDF Relations : 25
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_667final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_668final1.txt', '2014_4_101_600_677final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'SALATIN', 'FREEDOM', 'INDUSTRIAL', 'INDUSTRY', 'US', 'USES']
+
+2014_4_101_600_652final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'AUDIENCE', 'ARGUMENT', 'US']
+
+2014_4_101_600_628final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['AUDIENCE', 'SAUNDERS', 'ARGUMENT', 'KINDNESS', 'GRADUATES', 'SPEECH', 'QUESTIONS']
+
+2014_4_101_600_604final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'AUDIENCE', 'ALSO', 'PEOPLE', 'ARGUMENT', 'USES', 'KINDNESS']
+
+2014_4_101_600_610final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'PEOPLE', 'FAMILY', 'AUDIENCE', 'USE', 'MR', 'ESSAY']
+
+2014_4_101_500_532final2.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_500_557final3.txt', '2014_4_101_500_570final4.txt', '2014_4_101_500_540final2.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['WOMEN', 'MEN']
+
+2014_4_101_600_631final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'ARGUMENT', 'AUDIENCE', 'KIND', 'KINDNESS', 'SPEECH', 'QUESTIONS', 'ONE']
+
+2014_4_101_600_682final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['FOOD', 'SALATIN', 'READERS', 'US', 'WAY']
+
+2014_4_101_600_625final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'ARGUMENT', 'RICHTEL', 'SOCIETY', 'FAMILY', 'USE', 'STASIS']
+
+2014_4_101_600_640final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['ARGUMENT', 'SAUNDERS', 'AUDIENCE', 'KIND', 'USES', 'KINDNESS', 'WOULD']
+
+2014_4_101_500_515final1.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_500_506final1.txt', '2014_4_101_500_501final1.txt']
+Similar Words: ['MME', 'LOISEL', 'NECKLACE']
+
+2014_4_101_500_501final1.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_500_506final1.txt', '2014_4_101_500_515final1.txt']
+Similar Words: ['MME', 'LOISEL', 'DE', 'NECKLACE', 'MAUPASSANT']
+
+2014_4_101_500_557final3.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_545final3.txt', '2014_4_101_500_532final2.txt', '2014_4_101_500_558final3.txt']
+Similar Words: ['WOMEN', 'MOTHER', 'GIRL', 'TH', 'CENTURY']
+
+2014_4_101_600_654final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'ESSAY', 'AUDIENCE', 'EAT', 'PEOPLE', 'KNOWLEDGE']
+
+2014_4_101_600_675final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'ETHOS', 'ARGUMENT', 'READERS', 'PEOPLE', 'ABLE']
+
+2014_4_101_500_564final4.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_500_565final4.txt', '2014_4_101_500_568final4.txt', '2014_4_101_500_578final4.txt', '2014_4_101_500_567final4.txt']
+Similar Words: ['DISCIPLINE', 'PEOPLE', 'RULES', 'PANOPTICISM']
+
+2014_4_101_500_543final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_536final2.txt']
+Similar Words: ['PICTURE', 'WOMAN', 'WOMEN']
+
+2014_4_101_500_570final4.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_532final2.txt', '2014_4_101_500_540final2.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['WOMEN', 'MEN', 'ONE']
+
+2014_4_101_600_661final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_643final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'ESSAY', 'AUDIENCE', 'ETHOS', 'BERRY', 'INDUSTRY', 'RHETORICAL']
+
+2014_4_101_500_539final2.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_500_531final2.txt', '2014_4_101_500_525final2.txt']
+Similar Words: ['MAN', 'PAINTING', 'VIEWER']
+
+2014_4_101_600_637final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ARGUMENT', 'PEOPLE', 'ARTICLE', 'AUDIENCE', 'FAMILY', 'RICHTELS']
+
+2014_4_101_600_623final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['ARGUMENT', 'RICHTEL', 'TECHNOLOGY', 'PEOPLE', 'RICHTELS', 'RESEARCH']
+
+2014_4_101_600_659final1.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_600_672final1.txt', '2014_4_101_600_667final1.txt', '2014_4_101_600_668final1.txt']
+Similar Words: ['FOOD', 'PAARLBERG', 'ORGANIC', 'AFRICA', 'PEOPLE']
+
+2014_4_101_600_602final1.txt
+TFIDF Relations : 15
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['PEOPLE', 'TECHNOLOGY', 'MANY', 'ARTICLE', 'FAMILY', 'IMPORTANT', 'TIME', 'MULTITASKING']
+
+2014_4_101_500_569final4.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_580final4.txt']
+Similar Words: ['PEOPLE', 'CITY', 'PLAGUE']
+
+2014_4_101_600_678final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt', '2014_4_101_600_663final1.txt']
+Similar Words: ['SALATIN', 'ARGUMENT', 'FOOD', 'AUDIENCE', 'PEOPLE', 'INDUSTRY', 'ALSO', 'MAKE', 'MANY']
+
+2014_4_101_600_616final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'AUDIENCE', 'LIFE', 'USES', 'ARGUMENT', 'KINDNESS', 'QUESTIONS']
+
+2014_4_101_600_651final1.txt
+TFIDF Relations : 15
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'EATING', 'BERRY', 'AUDIENCE', 'PEOPLE', 'EAT', 'ALSO', 'LIFE']
+
+2014_4_101_500_504final1.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_561final3.txt']
+Similar Words: ['FAMILY', 'DELAPORE', 'DELAPORES', 'SEE']
+
+2014_4_101_500_552final3.txt
+TFIDF Relations : 5
+Cluster: ['2014_4_101_500_549final3.txt', '2014_4_101_500_556final3.txt', '2014_4_101_500_554final3.txt', '2014_4_101_500_559final3.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['BARBIE', 'WOMEN', 'GIRLS', 'TOYS', 'SOCIETY', 'PLAY', 'DOLL', 'WAY']
+
+2014_4_101_500_546final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_550final3.txt']
+Similar Words: ['EMILY', 'MISS']
+
+2014_4_101_600_645final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'AUDIENCE', 'FOOD', 'PEOPLE', 'ABLE', 'ALSO', 'SPEECH', 'FOODS']
+
+2014_4_101_600_664final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_643final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_668final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'ESSAY', 'ETHOS', 'EATING', 'READER', 'ARGUMENT', 'REASONING']
+
+2014_4_101_600_670final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'BERRY', 'READER', 'INDUSTRY', 'CONSUMER', 'EAT', 'US', 'FARMING']
+
+2014_4_101_600_626final1.txt
+TFIDF Relations : 10
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'ARGUMENT', 'LIFE', 'ALSO', 'INFORMATION', 'IMPORTANT', 'TIME']
+
+2014_4_101_600_632final1.txt
+TFIDF Relations : 5
+Cluster: ['2014_4_101_600_641final1.txt', '2014_4_101_600_636final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_614final1.txt']
+Similar Words: ['ARGUMENT', 'CARR', 'INTERNET', 'GOOGLE', 'AUDIENCE', 'PEOPLE', 'READER', 'ABLE', 'WAY']
+
+2014_4_101_600_648final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'ARGUMENT', 'AUDIENCE', 'FOOD', 'REASONING', 'GOOD', 'PEOPLE', 'US']
+
+2014_4_101_600_681final1.txt
+TFIDF Relations : 9
+Cluster: ['2014_4_101_600_655final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_632final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['INDUSTRY', 'FOOD', 'READER', 'AUDIENCE', 'ARGUMENT', 'PEOPLE', 'MANY', 'MAKE', 'WELL']
+
+2014_4_101_500_531final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_539final2.txt']
+Similar Words: ['MAN', 'PAINTING', 'VIEWER']
+
+2014_4_101_600_669final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['FOOD', 'SALATIN', 'ARGUMENT', 'AUDIENCE', 'INDUSTRIAL', 'GOOD', 'PROOFS', 'RHETORICAL']
+
+2014_4_101_500_578final4.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_565final4.txt', '2014_4_101_500_564final4.txt', '2014_4_101_500_567final4.txt']
+Similar Words: ['SCHOOL', 'STUDENTS', 'DISCIPLINE', 'PEOPLE', 'RULES']
+
+2014_4_101_600_607final1.txt
+TFIDF Relations : 15
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_632final1.txt', '2014_4_101_600_615final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'AUDIENCE', 'ARGUMENT', 'PEOPLE', 'LIFE', 'KINDNESS', 'SPEECH', 'ABLE']
+
+2014_4_101_500_525final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_539final2.txt']
+Similar Words: ['MAN']
+
+2014_4_101_600_662final1.txt
+TFIDF Relations : 23
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_668final1.txt', '2014_4_101_600_677final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['FOOD', 'SALATIN', 'ARGUMENT', 'SALATINS', 'AUDIENCE', 'ETHOS', 'READER', 'WAY', 'WOULD']
+
+2014_4_101_500_540final2.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_500_532final2.txt', '2014_4_101_500_570final4.txt', '2014_4_101_500_553final3.txt', '2014_4_101_500_536final2.txt']
+Similar Words: ['WOMEN', 'MEN', 'ONE', 'LIKE', 'WOMAN', 'NEW']
+
+2014_4_101_600_618final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'LIFE', 'MANY', 'CAMPBELL', 'BECOME', 'FAMILY', 'BRAIN', 'MR']
+
+2014_4_101_500_561final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_504final1.txt']
+Similar Words: ['DELAPORE', 'FAMILY', 'SEE', 'DELAPORES']
+
+2014_4_101_600_676final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'SYSTEM', 'US', 'USES', 'WOULD']
+
+2014_4_101_500_567final4.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_500_565final4.txt', '2014_4_101_500_580final4.txt', '2014_4_101_500_564final4.txt', '2014_4_101_500_578final4.txt']
+Similar Words: ['DISCIPLINE', 'POWER', 'CITY', 'PLAGUE', 'RULES', 'PANOPTICISM']
+
+2014_4_101_500_554final3.txt
+TFIDF Relations : 5
+Cluster: ['2014_4_101_500_549final3.txt', '2014_4_101_500_556final3.txt', '2014_4_101_500_552final3.txt', '2014_4_101_500_559final3.txt', '2014_4_101_500_553final3.txt']
+Similar Words: ['BARBIE', 'PIERCY', 'SOCIETY', 'FEMINISM', 'GIRLS', 'DOLL', 'DOLLS']
+
+2014_4_101_600_657final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['AUDIENCE', 'SALATIN', 'FOOD', 'ETHOS', 'SYSTEM', 'INDUSTRIAL', 'USES', 'WAY', 'MANY']
+
+2014_4_101_600_643final1.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_600_661final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_668final1.txt']
+Similar Words: ['ESSAY', 'FOOD', 'RHETORICAL', 'REASONING', 'ARGUMENT']
+
+2014_4_101_600_639final1.txt
+TFIDF Relations : 20
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_633final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'PEOPLE', 'CAMPBELL', 'AUDIENCE', 'ESSAY', 'MULTITASKING', 'TOPIC']
+
+2014_4_101_600_615final1.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt']
+Similar Words: ['AUDIENCE', 'SPEECH', 'LIFE', 'KINDNESS']
+
+2014_4_101_600_601final1.txt
+TFIDF Relations : 16
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'ONE', 'US', 'BECOME', 'ARTICLE', 'FAMILY', 'USE']
+
+2014_4_101_500_523final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_529final2.txt']
+Similar Words: ['PICTURE', 'BUILDINGS', 'TOMBS']
+
+2014_4_101_600_620final1.txt
+TFIDF Relations : 12
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_615final1.txt', '2014_4_101_600_612final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['AUDIENCE', 'LIFE', 'SAUNDERS', 'PEOPLE', 'KINDER', 'ALSO', 'SPEECH']
+
+2014_4_101_500_559final3.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_500_556final3.txt', '2014_4_101_500_552final3.txt', '2014_4_101_500_554final3.txt']
+Similar Words: ['BARBIE', 'DOLL', 'POEM', 'WAY']
+
+2014_4_101_600_634final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['RICHTEL', 'TECHNOLOGY', 'ARGUMENT', 'ONE', 'ARTICLE', 'CAMPBELL', 'MR', 'STASIS', 'MULTITASKING']
+
+2014_4_101_600_644final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'READERS', 'PEOPLE']
+
+2014_4_101_600_650final1.txt
+TFIDF Relations : 14
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_663final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['AUDIENCE', 'FOOD', 'ARGUMENT', 'BERRY', 'EATING', 'EAT', 'LIFE', 'RESPONSIBLY']
+
+2014_4_101_500_553final3.txt
+TFIDF Relations : 7
+Cluster: ['2014_4_101_500_549final3.txt', '2014_4_101_500_556final3.txt', '2014_4_101_500_532final2.txt', '2014_4_101_500_570final4.txt', '2014_4_101_500_552final3.txt', '2014_4_101_500_540final2.txt', '2014_4_101_500_554final3.txt']
+Similar Words: ['WOMEN', 'BARBIE', 'GIRLS', 'MEN', 'LIKE', 'DOLLS']
+
+2014_4_101_500_529final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_523final2.txt']
+Similar Words: ['PICTURE', 'BUILDINGS', 'TOMBS']
+
+2014_4_101_600_665final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'ARGUMENT', 'ETHOS', 'AUDIENCE', 'READERS', 'MAKE', 'FARMING', 'EAT']
+
+2014_4_101_600_633final1.txt
+TFIDF Relations : 4
+Cluster: ['2014_4_101_600_603final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_635final1.txt']
+Similar Words: ['PEOPLE', 'TECHNOLOGY', 'INFORMATION', 'TOPIC', 'EFFECTS']
+
+2014_4_101_600_649final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_680final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'ARGUMENT', 'FOOD', 'INDUSTRIAL', 'USES', 'MAKE', 'ALSO', 'READER']
+
+2014_4_101_600_680final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_677final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'AUDIENCE', 'ESSAY', 'US', 'WAY', 'MAKE']
+
+2014_4_101_600_627final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'ARGUMENT', 'RICHTEL', 'CAMPBELL', 'ARTICLE', 'FAMILY', 'USE', 'RICHTELS', 'TIME']
+
+2014_4_101_600_606final1.txt
+TFIDF Relations : 21
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_633final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'PEOPLE', 'CAMPBELL', 'ISSUE', 'INFORMATION', 'FAMILY', 'AUDIENCE', 'RESEARCH']
+
+2014_4_101_500_530final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_541final2.txt']
+Similar Words: ['IMAGE', 'PEOPLE', 'GHOST']
+
+2014_4_101_600_612final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_619final1.txt']
+Similar Words: ['SAUNDERS', 'KIND', 'LIFE', 'AUDIENCE', 'KINDNESS', 'GRADUATES', 'ONE']
+
+2014_4_101_600_668final1.txt
+TFIDF Relations : 6
+Cluster: ['2014_4_101_600_667final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_659final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_643final1.txt']
+Similar Words: ['FOOD', 'ORGANIC', 'AFRICA', 'PEOPLE', 'ARGUMENT', 'REASONING', 'ESSAY']
+
+2014_4_101_600_677final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_647final1.txt', '2014_4_101_600_660final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_682final1.txt', '2014_4_101_600_675final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_645final1.txt', '2014_4_101_600_648final1.txt', '2014_4_101_600_681final1.txt', '2014_4_101_600_669final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_676final1.txt', '2014_4_101_600_657final1.txt', '2014_4_101_600_644final1.txt', '2014_4_101_600_665final1.txt', '2014_4_101_600_649final1.txt', '2014_4_101_600_680final1.txt']
+Similar Words: ['SALATIN', 'FOOD', 'AUDIENCE', 'ARGUMENT', 'PEOPLE', 'FOODS', 'WELL']
+
+2014_4_101_500_566final4.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_600_603final1.txt']
+Similar Words: ['PEOPLE', 'WORLD', 'WOULD', 'LIFE']
+
+2014_4_101_600_663final1.txt
+TFIDF Relations : 14
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_678final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_642final1.txt', '2014_4_101_600_656final1.txt']
+Similar Words: ['BERRY', 'FOOD', 'EATING', 'AUDIENCE', 'LOGOS', 'INDUSTRY', 'PEOPLE', 'KNOWLEDGE']
+
+2014_4_101_500_541final2.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_530final2.txt']
+Similar Words: ['GHOST', 'PEOPLE', 'IMAGE']
+
+2014_4_101_600_619final1.txt
+TFIDF Relations : 13
+Cluster: ['2014_4_101_600_608final1.txt', '2014_4_101_600_629final1.txt', '2014_4_101_600_611final1.txt', '2014_4_101_600_605final1.txt', '2014_4_101_600_622final1.txt', '2014_4_101_600_628final1.txt', '2014_4_101_600_604final1.txt', '2014_4_101_600_631final1.txt', '2014_4_101_600_640final1.txt', '2014_4_101_600_616final1.txt', '2014_4_101_600_607final1.txt', '2014_4_101_600_620final1.txt', '2014_4_101_600_612final1.txt']
+Similar Words: ['SAUNDERS', 'AUDIENCE', 'ARGUMENT', 'KIND', 'LIFE', 'KINDNESS', 'GOOD', 'REGRET']
+
+2014_4_101_600_642final1.txt
+TFIDF Relations : 14
+Cluster: ['2014_4_101_600_666final1.txt', '2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt']
+Similar Words: ['FREEDOM', 'FOOD', 'AUDIENCE', 'BERRY', 'PEOPLE', 'EAT']
+
+2014_4_101_600_638final1.txt
+TFIDF Relations : 18
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ONE', 'PEOPLE', 'CAMPBELL', 'FAMILY', 'TIME']
+
+2014_4_101_500_517final1.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_513final1.txt']
+Similar Words: ['NECKLACE', 'MATHILDE', 'LIFE', 'PEOPLE']
+
+2014_4_101_500_555final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_512final1.txt']
+Similar Words: ['POE', 'STORY', 'VALDEMAR']
+
+2014_4_101_600_656final1.txt
+TFIDF Relations : 14
+Cluster: ['2014_4_101_600_653final1.txt', '2014_4_101_600_655final1.txt', '2014_4_101_600_658final1.txt', '2014_4_101_600_679final1.txt', '2014_4_101_600_646final1.txt', '2014_4_101_600_652final1.txt', '2014_4_101_600_654final1.txt', '2014_4_101_600_661final1.txt', '2014_4_101_600_651final1.txt', '2014_4_101_600_664final1.txt', '2014_4_101_600_670final1.txt', '2014_4_101_600_662final1.txt', '2014_4_101_600_650final1.txt', '2014_4_101_600_663final1.txt']
+Similar Words: ['FOOD', 'BERRY', 'EATING', 'ESSAY', 'READER', 'CONSUMER', 'RESPONSIBLY']
+
+2014_4_101_600_600final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_603final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_635final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['TECHNOLOGY', 'LIFE', 'RICHTEL', 'US', 'CAMPBELL', 'READERS', 'FAMILY']
+
+2014_4_101_500_536final2.txt
+TFIDF Relations : 2
+Cluster: ['2014_4_101_500_543final2.txt', '2014_4_101_500_540final2.txt']
+Similar Words: ['WOMEN', 'WOMAN', 'PICTURE', 'NEW']
+
+2014_4_101_600_614final1.txt
+TFIDF Relations : 3
+Cluster: ['2014_4_101_600_641final1.txt', '2014_4_101_600_636final1.txt', '2014_4_101_600_632final1.txt']
+Similar Words: ['CARR', 'INTERNET', 'TECHNOLOGY', 'INFORMATION', 'WAY', 'AUDIENCE']
+
+2014_4_101_600_635final1.txt
+TFIDF Relations : 17
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_633final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_621final1.txt']
+Similar Words: ['RICHTEL', 'TECHNOLOGY', 'PEOPLE', 'FAMILY', 'BRAIN', 'EFFECTS']
+
+2014_4_101_500_558final3.txt
+TFIDF Relations : 1
+Cluster: ['2014_4_101_500_557final3.txt']
+Similar Words: ['WOMEN', 'CENTURY']
+
+2014_4_101_600_621final1.txt
+TFIDF Relations : 19
+Cluster: ['2014_4_101_600_624final1.txt', '2014_4_101_600_630final1.txt', '2014_4_101_600_617final1.txt', '2014_4_101_600_609final1.txt', '2014_4_101_600_610final1.txt', '2014_4_101_600_625final1.txt', '2014_4_101_600_637final1.txt', '2014_4_101_600_623final1.txt', '2014_4_101_600_602final1.txt', '2014_4_101_600_626final1.txt', '2014_4_101_600_618final1.txt', '2014_4_101_600_639final1.txt', '2014_4_101_600_601final1.txt', '2014_4_101_600_634final1.txt', '2014_4_101_600_627final1.txt', '2014_4_101_600_606final1.txt', '2014_4_101_600_638final1.txt', '2014_4_101_600_600final1.txt', '2014_4_101_600_635final1.txt']
+Similar Words: ['TECHNOLOGY', 'RICHTEL', 'ONE', 'ARGUMENT', 'CAMPBELL', 'FAMILY', 'AUDIENCE', 'MR', 'TIME']
+
+
+Average relations per Document: 7.6582278481
